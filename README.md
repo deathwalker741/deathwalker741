@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deathwalker741
 - 👀 I’m interested in web, app dvelopment and software engineering
 - 🌱 I’m currently learning webdvelopment
-- 💞️ I’m looking to collaborate on wen development and software engineering
+- 💞️ I’m looking to collaborate on web development and software engineering
 - 📫 How to reach me mnagendra741@gmail.com
 
 <!---
